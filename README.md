@@ -1,16 +1,15 @@
-###CipheredMessageHandler Program Concept
----
+# CipheredMessageHandler Program Concept
 A program that accepts a block of text as the _one-time pad_ text and uses it against the user supplied _plaintext_ to create ciphertext. The process can be reversed to decrypt the ciphertext and convert it back into plaintext, if the original _one-time pad_ text is known.
 
 
 
 
-####Features
+## Features
 ---
 Accepts user input (currently at the command line) and converts it to
 
 
-#### Background 
+## Background 
 ---
 A few years ago my elder brother introduced me to shortwave radio listening (SWL). As I revelled in this previously unknown  no man's land of the electromagnetic spectrum, I came across something the SWL world affectionately refers to as "Number Stations". 
 
@@ -29,7 +28,7 @@ The "second" version was technically an attempted port from Python which turned 
 
 Which brings us to more-or-less present day.
 
-#### Usage
+## Usage
 ---
 
 ####To-do

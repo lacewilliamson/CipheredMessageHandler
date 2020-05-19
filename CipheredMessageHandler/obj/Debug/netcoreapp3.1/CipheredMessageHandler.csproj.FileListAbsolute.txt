@@ -1,0 +1,11 @@
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\obj\Debug\netcoreapp3.1\CipheredMessageHandler.csprojAssemblyReference.cache
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\obj\Debug\netcoreapp3.1\CipheredMessageHandler.AssemblyInfoInputs.cache
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\obj\Debug\netcoreapp3.1\CipheredMessageHandler.AssemblyInfo.cs
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.exe
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.deps.json
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.runtimeconfig.json
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.runtimeconfig.dev.json
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.dll
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\bin\Debug\netcoreapp3.1\CipheredMessageHandler.pdb
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\obj\Debug\netcoreapp3.1\CipheredMessageHandler.dll
+Z:\Documents\Development\git\Internal\CipheredMessageHandler\CipheredMessageHandler\obj\Debug\netcoreapp3.1\CipheredMessageHandler.pdb
